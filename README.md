@@ -12,9 +12,7 @@ Proyecto de laboratorio enfocado en la elaboración y programación de un rastre
 1. [Descripción General](#descripcion-general)
 2. [Características del Crawler](#caracteristicas-del-crawler)
 3. [Requisitos del Proyecto](#requisitos-del-proyecto)
-4. [Tecnologías Utilizadas](#tecnologias-utilizadas)
-5. [Cómo Ejecutar el Proyecto](#como-ejecutar-el-proyecto)
-6. [Contacto](#contacto)
+4. [Contacto](#contacto)
 
 ---
 
