@@ -4,7 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# LabBook Crawlers
+# Crawlers
 
 Proyecto de laboratorio enfocado en la elaboración y programación de un rastreador web (web crawler). Este proyecto utiliza Python y diversas bibliotecas para extraer información de dos sitios web: la Wikipedia en inglés y la página oficial de la ESI, almacenando los datos en una base de datos SQLite y visualizándolos con colores personalizados en la consola.
 
